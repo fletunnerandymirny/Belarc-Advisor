@@ -210,4 +210,4 @@ Belarc Advisor is available as a complete free version, including all features a
 Unlock the full potential of your PC with Belarc Advisor—**download it free today!**
 
 ---
-**Last updated:** 2026-11-07 16:08:53 UTC
+**Last updated:** 2026-11-07 20:41:56 UTC
